@@ -1,5 +1,0 @@
-<?php
- # Grupo1 Test
- echo "'ls' output: \n\n";
- system("ls");
-?>
