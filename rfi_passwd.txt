@@ -1,0 +1,5 @@
+<?php
+ # Grupo1 Test
+ echo "'/etc/passwd' output: \n\n";
+ system("cat /etc/passwd");
+?>
