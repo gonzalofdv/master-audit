@@ -1,6 +1,5 @@
 <?php
  # Grupo1 Test
- echo base64_decode("TmVzc3VzQ29kZUV4ZWNUZXN0")."\n\n";
- echo "'ls' output: ";
+ echo "'ls' output: \n\n";
  system("ls");
 ?>
